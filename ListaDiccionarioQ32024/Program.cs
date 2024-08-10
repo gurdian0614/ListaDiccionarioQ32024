@@ -30,6 +30,8 @@ while (opcion != 3)
                 list.Add("Ada");
                 list.Add("Pedro");
                 list.Add("Jesus");
+                list.Add("María");
+                list.Add("José");
 
                 list.Remove("Ada");
                 list.RemoveAt(0);
